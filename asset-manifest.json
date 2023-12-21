@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//akbotaarman.github.io/static/css/main.7b22001d.css",
+    "main.js": "//akbotaarman.github.io/static/js/main.36c8316f.js",
+    "static/js/787.d4aba7ab.chunk.js": "//akbotaarman.github.io/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "//akbotaarman.github.io/index.html",
+    "main.7b22001d.css.map": "//akbotaarman.github.io/static/css/main.7b22001d.css.map",
+    "main.36c8316f.js.map": "//akbotaarman.github.io/static/js/main.36c8316f.js.map",
+    "787.d4aba7ab.chunk.js.map": "//akbotaarman.github.io/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b22001d.css",
+    "static/js/main.36c8316f.js"
+  ]
+}
